@@ -27,7 +27,7 @@ public class BrightnessFilter extends PhotoFilter {
         /*int intensity = (Color.red(inPixel) + Color.green(inPixel) +
                 Color.blue(inPixel)) / 3;
         return Color.argb(Color.alpha(inPixel), intensity,intensity,intensity);*/
-        return 700;
+        return 900;
     }
 
 }
